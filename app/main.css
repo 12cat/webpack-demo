@@ -1,0 +1,13 @@
+body {
+    background: url('./imgs/img.jpg') no-repeat fixed;
+    background-size: cover;
+}
+h1 {
+    color: #fff;
+}
+li .li-title {
+    color: green;
+}
+.time {
+    color: blue;
+}
